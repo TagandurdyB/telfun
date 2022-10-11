@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536140606883",
+    "project_id": "telfunlogin",
+    "storage_bucket": "telfunlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536140606883:android:2e450ac808f418de703e16",
+        "android_client_info": {
+          "package_name": "com.telfun.telfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536140606883-ijpragu3oqqhvouuuvi18ffqk6jehiou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNSwwq6HL_H-UZbyTQ7uLv6wMsTLnSG5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536140606883-ijpragu3oqqhvouuuvi18ffqk6jehiou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
